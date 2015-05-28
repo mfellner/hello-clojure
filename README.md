@@ -1,4 +1,6 @@
-# Clojure Hello World
+# Hello Clojure World
+
+Hello world in Clojure.
 
 ## License
 
